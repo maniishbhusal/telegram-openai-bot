@@ -43,7 +43,7 @@ python telegram_bot.py
 4. For all other messages, the bot will use the OpenAI API to generate an NLP-based response.
 
 # Output
-video
+[![OpenAI-Telegram-Bot](https://github.com/manish-bhusal/telegram-openai-bot/assets/84217955/eb6c6df7-7088-4cae-9bcb-bc21ada84aff)]
 
 # Credits
 This project was inspired by [OpenAI Playground](https://platform.openai.com/playground) and the [Quotable API.](https://github.com/lukePeavey/quotable)

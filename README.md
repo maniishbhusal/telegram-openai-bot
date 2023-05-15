@@ -12,7 +12,7 @@ This repository contains a simple Telegram bot that integrates with the OpenAI A
 # Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/manish-bhusal/telegram-bot.git
+git clone https://github.com/manish-bhusal/telegram-openai-bot.git
 ```
 
 2. Obtain the required API keys:

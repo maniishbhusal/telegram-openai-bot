@@ -45,6 +45,9 @@ python telegram_bot.py
 # Output
 [OpenAI-Telegram-Bot](https://github.com/manish-bhusal/telegram-openai-bot/assets/84217955/eb6c6df7-7088-4cae-9bcb-bc21ada84aff)
 
+# Additional Resources
+I've written a detailed explanation of this Telegram bot project on Medium. If you want to learn more about how to build a simple Telegram bot using Python, you can check out my blog post: [Building a Smart Telegram Bot with OpenAI: Get Quotes and Engage in Conversations!](https://medium.com/@manishbhusal6/building-a-smart-telegram-bot-with-openai-get-quotes-and-engage-in-conversations-c6feab815f91)
+
 # Credits
 This project was inspired by [OpenAI Playground](https://platform.openai.com/playground) and the [Quotable API.](https://github.com/lukePeavey/quotable)
 
